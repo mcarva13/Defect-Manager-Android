@@ -11,3 +11,6 @@ An android app designed for the foundry industry that registers and organizes pr
 - Each Production Date can be associated with a Table of Defects. This table allows the register of productions defects detected on each part 
 and exports the results to an Excel file, stored locally on the device. Like the Reference and Production Date activities, management is possible
 with Edit, Save and Delete functions. An Export option is also available, creating an email with the attached Excel File.
+
+Youtube Link
+https://youtu.be/8q6njkPbB-Y
